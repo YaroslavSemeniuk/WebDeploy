@@ -1,0 +1,660 @@
+[
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5a68817e51d66f1bf3df9889",
+    "name": "5a68817e51d66f1bf3df9889",
+    "messages": [],
+    "created_at": "2018-10-01T12:00:52.176Z",
+    "updated_at": "2018-10-01T12:00:52.177Z",
+    "__v": 0,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5a6881b0b7cb8b1c29e4d1a6",
+    "name": "5a6881b0b7cb8b1c29e4d1a6",
+    "messages": [],
+    "created_at": "2018-10-01T12:00:55.368Z",
+    "updated_at": "2018-10-01T12:00:55.368Z",
+    "__v": 0,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5a68820bb7cb8b1c29e4d1a7",
+    "name": "5a68820bb7cb8b1c29e4d1a7",
+    "messages": [],
+    "created_at": "2018-10-01T12:00:58.921Z",
+    "updated_at": "2018-10-01T12:00:58.922Z",
+    "__v": 0,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bb20aa33e474d65ad5a453c",
+    "name": "5bb20aa33e474d65ad5a453c",
+    "messages": [],
+    "created_at": "2018-10-01T12:01:03.469Z",
+    "updated_at": "2018-10-01T12:01:03.469Z",
+    "__v": 0,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5a5b8d5bbc6412151c709cff",
+    "name": "5a5b8d5bbc6412151c709cff",
+    "messages": [],
+    "created_at": "2018-10-01T12:01:08.158Z",
+    "updated_at": "2018-10-12T03:33:09.625Z",
+    "__v": 11,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5a5cd39ebc6412151c709d01",
+    "name": "5a5cd39ebc6412151c709d01",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-01T12:01:11.085Z",
+    "updated_at": "2018-10-12T03:33:20.211Z",
+    "__v": 12,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5a6880f13958bb1b433c11c2",
+    "name": "5a6880f13958bb1b433c11c2",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-01T12:01:19.395Z",
+    "updated_at": "2018-10-01T12:04:10.807Z",
+    "__v": 1,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bb20cb625faaf6d9f2e37a5",
+    "name": "General",
+    "description": "General room",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-01T12:01:58.643Z",
+    "updated_at": "2018-10-12T03:50:21.475Z",
+    "__v": 25,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bbb3dec3e2ca445b1476ffb",
+    "name": "tech",
+    "description": "Tech room",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-08T11:22:20.502Z",
+    "updated_at": "2019-04-17T00:45:11.210Z",
+    "__v": 7,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bbb3f723e2ca445b1476ffc",
+    "name": "Plouf",
+    "description": "Plouf room",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-08T11:28:50.743Z",
+    "updated_at": "2018-10-08T11:28:50.745Z",
+    "__v": 3,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bbb3ff43e2ca445b1476ffd",
+    "name": "JS",
+    "description": "Javascript room",
+    "messages": [],
+    "created_at": "2018-10-08T11:31:00.772Z",
+    "updated_at": "2018-10-08T11:31:00.773Z",
+    "__v": 0,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bbb40123e2ca445b1476ffe",
+    "name": "Node",
+    "description": "Node.js room",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-08T11:31:30.044Z",
+    "updated_at": "2018-10-08T11:31:30.044Z",
+    "__v": 4,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bbb40353e2ca445b1476fff",
+    "name": "Test",
+    "description": "test room",
+    "messages": [
+
+    ],
+    "created_at": "2018-10-08T11:32:05.786Z",
+    "updated_at": "2019-11-07T18:27:36.425Z",
+    "__v": 5,
+    "users": []
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5bbb40a03e2ca445b1477000",
+    "name": "KikooLol",
+    "description": "=)",
+    "messages": [],
+    "created_at": "2018-10-08T11:33:52.309Z",
+    "updated_at": "2018-10-08T11:33:52.310Z",
+    "__v": 0,
+    "users": []
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc012ba544ac7560c5fafd7",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:19:22.870Z",
+    "updated_at": "2018-10-12T03:19:22.871Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc012be544ac7560c5fafd9",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:19:26.207Z",
+    "updated_at": "2018-10-12T03:19:26.208Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc012c2544ac7560c5fafdb",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:19:30.744Z",
+    "updated_at": "2018-10-12T03:19:30.744Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc012e5544ac7560c5fafdf",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:20:05.117Z",
+    "updated_at": "2018-10-12T03:20:05.118Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc012e8544ac7560c5fafe1",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:20:08.761Z",
+    "updated_at": "2018-10-12T03:20:08.762Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc012f8544ac7560c5fafe3",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:20:24.438Z",
+    "updated_at": "2018-10-12T03:20:24.439Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc01304544ac7560c5fafe5",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:20:36.897Z",
+    "updated_at": "2018-10-12T03:20:36.898Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc015d7544ac7560c5fafe7",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:32:39.720Z",
+    "updated_at": "2018-10-12T03:32:39.721Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc015fc544ac7560c5fafeb",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:33:16.543Z",
+    "updated_at": "2018-10-12T03:33:16.543Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc019e9544ac7560c5fafef",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:01.218Z",
+    "updated_at": "2018-10-12T03:50:01.219Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc019ea544ac7560c5faff1",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:02.475Z",
+    "updated_at": "2018-10-12T03:50:02.476Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc019ec544ac7560c5faff3",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:04.526Z",
+    "updated_at": "2018-10-12T03:50:04.527Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc019ed544ac7560c5faff5",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:05.284Z",
+    "updated_at": "2018-10-12T03:50:05.285Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc019ed544ac7560c5faff7",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:05.806Z",
+    "updated_at": "2018-10-12T03:50:05.807Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc01a05544ac7560c5faffa",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:29.678Z",
+    "updated_at": "2018-10-12T03:50:29.678Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc01a06544ac7560c5faffc",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:50:30.735Z",
+    "updated_at": "2018-10-12T03:50:30.736Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc01b67544ac7560c5fb000",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T03:56:23.232Z",
+    "updated_at": "2018-10-12T03:56:23.232Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc01cba544ac7560c5fb002",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T04:02:02.499Z",
+    "updated_at": "2018-10-12T04:02:02.500Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc01cbc544ac7560c5fb004",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-12T04:02:04.222Z",
+    "updated_at": "2018-10-12T04:02:04.223Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc4248c455befe2e5689866",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:28.069Z",
+    "updated_at": "2018-10-15T05:24:28.072Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc4248d455befe2e5689868",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:29.563Z",
+    "updated_at": "2018-10-15T05:24:29.565Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc42492455befe2e568986a",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:34.244Z",
+    "updated_at": "2018-10-15T05:24:34.245Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc42493455befe2e568986c",
+    "name": "5bc4237a455befe2e5689865,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:35.506Z",
+    "updated_at": "2018-10-15T05:24:35.507Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc4249d455befe2e568986e",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:45.900Z",
+    "updated_at": "2018-10-15T05:24:45.901Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc424a1455befe2e5689870",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:49.524Z",
+    "updated_at": "2018-10-15T05:24:49.525Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc424a3455befe2e5689872",
+    "name": "5bc4237a455befe2e5689865,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-15T05:24:51.216Z",
+    "updated_at": "2018-10-15T05:24:51.217Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc71efe0c19c84c7a5be7ec",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-17T11:37:34.035Z",
+    "updated_at": "2018-10-17T11:37:34.045Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc71eff0c19c84c7a5be7ee",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-17T11:37:35.272Z",
+    "updated_at": "2018-10-17T11:37:35.277Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bc71eff0c19c84c7a5be7f0",
+    "name": "5bc4237a455befe2e5689865,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-17T11:37:35.824Z",
+    "updated_at": "2018-10-17T11:37:35.825Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1afd30d88a533bd4c9032",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T11:58:11.184Z",
+    "updated_at": "2018-10-25T11:58:11.191Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b0140d88a533bd4c9034",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T11:59:16.834Z",
+    "updated_at": "2018-10-25T11:59:16.836Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b0150d88a533bd4c9036",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T11:59:17.455Z",
+    "updated_at": "2018-10-25T11:59:17.457Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b0160d88a533bd4c9038",
+    "name": "5bc4237a455befe2e5689865,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T11:59:18.046Z",
+    "updated_at": "2018-10-25T11:59:18.048Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b1520d88a533bd4c903a",
+    "name": "5bc4237a455befe2e5689865,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T12:04:34.244Z",
+    "updated_at": "2018-10-25T12:04:34.245Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b15b0d88a533bd4c903c",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T12:04:43.010Z",
+    "updated_at": "2018-10-25T12:04:43.012Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b1600d88a533bd4c903e",
+    "name": "5bc012ab544ac7560c5fafd6,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T12:04:48.715Z",
+    "updated_at": "2018-10-25T12:04:48.716Z",
+    "__v": 0
+  },
+  {
+    "is_user": true,
+    "is_private": false,
+    "_id": "5bd1b1610d88a533bd4c9040",
+    "name": "5bc019e6544ac7560c5fafee,",
+    "users": [],
+    "messages": [],
+    "created_at": "2018-10-25T12:04:49.630Z",
+    "updated_at": "2018-10-25T12:04:49.632Z",
+    "__v": 0
+  },
+  {
+    "is_user": false,
+    "is_private": true,
+    "_id": "5cb676b69f22822f33593a77",
+    "name": "My Private Room",
+    "description": "My Private Room",
+    "users": [],
+    "messages": [],
+    "created_at": "2019-04-17T00:43:34.114Z",
+    "updated_at": "2019-04-17T00:43:34.115Z",
+    "__v": 0
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5d0b6a607d0a035322a31d51",
+    "name": "asd",
+    "description": "asd",
+    "users": [],
+    "messages": [],
+    "created_at": "2019-06-20T11:13:36.071Z",
+    "updated_at": "2019-06-20T11:13:36.074Z",
+    "__v": 0
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5d0b6a6f7d0a035322a31d52",
+    "name": "111111",
+    "description": "11111",
+    "users": [],
+    "messages": [
+
+    ],
+    "created_at": "2019-06-20T11:13:51.860Z",
+    "updated_at": "2019-06-20T11:16:02.334Z",
+    "__v": 66
+  },
+  {
+    "is_user": false,
+    "is_private": true,
+    "_id": "5d6574989298a940087a7611",
+    "name": "toto",
+    "description": "",
+    "users": [],
+    "messages": [
+
+    ],
+    "created_at": "2019-08-27T18:21:12.065Z",
+    "updated_at": "2019-08-27T18:21:12.065Z",
+    "__v": 3
+  },
+  {
+    "is_user": false,
+    "is_private": true,
+    "_id": "5d6575319298a940087a7617",
+    "name": "titi",
+    "description": "",
+    "users": [],
+    "messages": [],
+    "created_at": "2019-08-27T18:23:45.904Z",
+    "updated_at": "2019-08-27T18:23:45.904Z",
+    "__v": 0
+  },
+  {
+    "is_user": false,
+    "is_private": false,
+    "_id": "5dc461692292f575f36cee7d",
+    "name": "test",
+    "description": "test",
+    "users": [],
+    "messages": [],
+    "created_at": "2019-11-07T18:24:41.073Z",
+    "updated_at": "2019-11-07T18:24:41.074Z",
+    "__v": 0
+  }
+]

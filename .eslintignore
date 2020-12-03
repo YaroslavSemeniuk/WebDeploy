@@ -1,0 +1,9 @@
+**/.idea/*
+**/node_modules/*
+**/.tmp/*
+**/build/*
+**/dist/*
+**/coverage/*
+**/src/**/tests/*
+cjs
+esm
